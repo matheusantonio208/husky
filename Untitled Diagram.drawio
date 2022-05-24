@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T17:34:27.328Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="XffBEPnROOJ5fGdrr8qm" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T17:36:39.363Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="DdTszaq26elELwAB-p5l" version="18.1.2" type="github">
   <diagram id="K14oZXPWYWjABnxPdLCR" name="Page-1">
     <mxGraphModel dx="3243" dy="1904" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -881,7 +881,7 @@
         <mxCell id="iCp1iRdGvMeMZdobhuUL-6" value="Doc. Keycloak: https://www.keycloak.org/docs-api/18.0/rest-api/index.html#_idtoken" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="iCp1iRdGvMeMZdobhuUL-1">
           <mxGeometry y="240" width="651" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iCp1iRdGvMeMZdobhuUL-9" value="Dash. Keycloak: https://keycloak.fretepago.dev.br/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="iCp1iRdGvMeMZdobhuUL-1">
+        <mxCell id="iCp1iRdGvMeMZdobhuUL-9" value="Dash. Keycloak: https://keycloak.fretepago.dev.br/ : (Pedir acesso pro time de Bank Core)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="iCp1iRdGvMeMZdobhuUL-1">
           <mxGeometry y="270" width="651" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iCp1iRdGvMeMZdobhuUL-10" value="Glossario" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
