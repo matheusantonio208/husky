@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T17:21:25.730Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="PB5liJ2rvbuJ7d3O4Zlj" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T17:26:50.261Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="7AUoLJlDdCk3nnE9rwcU" version="18.1.2" type="github">
   <diagram id="K14oZXPWYWjABnxPdLCR" name="Page-1">
-    <mxGraphModel dx="3243" dy="1504" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3243" dy="1904" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -877,6 +877,18 @@
         </mxCell>
         <mxCell id="iCp1iRdGvMeMZdobhuUL-9" value="Dash. Keycloak: https://keycloak.fretepago.dev.br/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="iCp1iRdGvMeMZdobhuUL-1">
           <mxGeometry y="210" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCp1iRdGvMeMZdobhuUL-10" value="Glossario" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-47" y="-464" width="649" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iCp1iRdGvMeMZdobhuUL-11" value="Caradhras ou Dock ou ??? = Serviço que se comunica com o banco central, criando contas e efetivando transferencias" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="iCp1iRdGvMeMZdobhuUL-10">
+          <mxGeometry y="30" width="649" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCp1iRdGvMeMZdobhuUL-12" value="Banking Core ou Vizir Bank = Middleware que comunica o frontend com o Caradhras" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="iCp1iRdGvMeMZdobhuUL-10">
+          <mxGeometry y="60" width="649" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCp1iRdGvMeMZdobhuUL-13" value="Keycloak = Serviço de Autenticação e Autorização do Banking Core" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="iCp1iRdGvMeMZdobhuUL-10">
+          <mxGeometry y="90" width="649" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
